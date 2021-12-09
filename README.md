@@ -1,4 +1,4 @@
-Signal-Server
+Signal-Servers
 =================
 
 Documentation
