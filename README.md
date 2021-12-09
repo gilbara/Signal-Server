@@ -1,7 +1,7 @@
-Signal-Servers
+Signal-Server
 =================
 
-Documentation
+Documentation General
 -------------
 
 Looking for protocol documentation? Check out the website!
